@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server that provides programmatic control over tmux terminal sessions. Enables Claude (or other MCP clients) to create, manage, and interact with tmux sessions for SSH access, command execution, and terminal automation.
 
+<a href="https://glama.ai/mcp/servers/@MediocreTriumph/tmux-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@MediocreTriumph/tmux-mcp/badge" alt="Tmux Server MCP server" />
+</a>
+
 ## Features
 
 - Create and manage tmux sessions
