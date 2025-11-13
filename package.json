@@ -1,0 +1,19 @@
+{
+  "name": "tmux-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for tmux terminal control",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "tmux-mcp-server": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["mcp", "tmux", "terminal"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.21.1"
+  }
+}
